@@ -7,7 +7,8 @@
 22.09.19 ~ 22.09.20
 
 ## ✔️ 주요 기능
-![date](https://user-images.githubusercontent.com/118104709/204482676-02dbfb7d-d7db-47e6-ba1f-db8ccc70ff70.gif)
+![datepicker](https://user-images.githubusercontent.com/118104709/204485579-9ff8734a-5840-4ecb-94df-4c7c9da017ab.gif)
+
 
 - 현재 년도와 달의 이름을 표시한다.
 - 버튼을 누르면 이전 달과 다음 달로 이동한다.
